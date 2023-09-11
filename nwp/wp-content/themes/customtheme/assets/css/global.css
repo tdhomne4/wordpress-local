@@ -1,0 +1,19 @@
+@import url(font-awesome.min.css);@import url(bootstrap-4.min.css);@import url(animate.css);@import url(owl.carousel.min.css);@import url(style.css);@import url(media.css);*{margin:0;padding:0;border:0;outline:0}
+body
+{
+    font-family:Lato;font-size:15px;color:#333;font-weight:400;line-height:24px;background:#fff}
+    a,button
+    {
+        text-decoration:none;cursor:pointer;outline:0;color:#333}
+        a:focus,a:hover,button:focus,button:hover
+        {
+            -webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;text-decoration:none;outline:0;color:#cd1041;outline:0!important;-webkit-box-shadow:none!important;box-shadow:none!important}li,ul{list-style:none;padding:0;margin:0}img{max-width:100%}.form-control,input,select,textarea{color:#333}
+@media screen and (max-width:991px){body{font-size:14px;line-height:22px}}
+@media screen and (max-width:767px){body{font-size:13px;line-height:20px}}
+.navbar_header {
+    padding: 10px 100px;
+    margin-left: 20%;
+}
+/* .custom {
+    margin-left: 20%;
+} */

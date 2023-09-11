@@ -1,0 +1,368 @@
+# Translation of YITH WooCommerce Color And Label Variations in French (France)
+# This file is distributed under the same license as the YITH WooCommerce Color And Label Variations package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Color And Label Variations\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"colors-labels-variations.premium\n"
+"POT-Creation-Date: 2022-03-14 13:55:40+00:00\n"
+"PO-Revision-Date: 2021-08-25 19:13:50+0000\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: includes/class.yith-wccl-admin.php:176
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/class.yith-wccl-admin.php:177
+msgid "Single Variations"
+msgstr "Variations uniques"
+
+#: includes/class.yith-wccl-admin.php:494
+#: includes/class.yith-wccl-admin.php:526
+#: includes/class.yith-wccl-admin.php:652
+#: includes/class.yith-wccl-admin.php:820
+msgid "Value"
+msgstr "Valeur"
+
+#: includes/class.yith-wccl-admin.php:499
+#: includes/class.yith-wccl-admin.php:531
+#: includes/class.yith-wccl-admin.php:825
+msgid "Tooltip"
+msgstr "Info-bulle"
+
+#: includes/class.yith-wccl-admin.php:500
+#: includes/class.yith-wccl-admin.php:532
+msgid ""
+"Use this placeholder {show_image} to show the image on tooltip. Only "
+"available for image type"
+msgstr ""
+"Utilisez cet espace réservé {show_image} pour afficher l'image sur "
+"l'infobulle. Uniquement disponible pour le type d'image"
+
+#: includes/class.yith-wccl-admin.php:741
+msgid "Select terms"
+msgstr "Sélectionnez les termes"
+
+#: includes/class.yith-wccl-admin.php:752
+msgid "Select all"
+msgstr "Tout sélectionner"
+
+#: includes/class.yith-wccl-admin.php:753
+msgid "Select none"
+msgstr "Ne rien sélectionner"
+
+#: includes/class.yith-wccl-admin.php:754
+msgid "Add new"
+msgstr "Ajouter un nouveau"
+
+#: includes/class.yith-wccl-admin.php:808
+msgid "Create new attribute term"
+msgstr "Créer un nouveau terme d'attribut"
+
+#: includes/class.yith-wccl-admin.php:813
+msgid "Name"
+msgstr "Nom"
+
+#: includes/class.yith-wccl-admin.php:816
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/class.yith-wccl-admin.php:859
+msgid "A value is required for this term"
+msgstr "Une valeur est requise pour ce terme"
+
+#: includes/class.yith-wccl-admin.php:953
+msgid "Enable this option to show this variation in archive pages"
+msgstr ""
+"Activez cette option pour afficher cette variation dans les pages d'archives"
+
+#: includes/class.yith-wccl-admin.php:954
+msgid "Show in archive pages?"
+msgstr "Afficher dans les pages d'archives?"
+
+#: includes/class.yith-wccl-admin.php:977
+msgid "Hide in archive pages?"
+msgstr "Masquer dans les pages d'archives?"
+
+#: includes/class.yith-wccl-frontend.php:187
+msgid "View Cart"
+msgstr "Voir le panier"
+
+#: includes/class.yith-wccl-frontend.php:192
+#: plugin-options/general-options.php:135
+msgid "Add to cart"
+msgstr "Ajouter au chariot"
+
+#. translators: %1$s stand form the product name.
+#: includes/class.yith-wccl-frontend.php:967
+msgid " \"%1$s\" has been added to cart correctly"
+msgstr " \"%1$s\" a été ajouté au panier correctement"
+
+#: includes/function.yith-wccl.php:91
+msgid "Colorpicker"
+msgstr "Pipette à couleurs"
+
+#: includes/function.yith-wccl.php:92
+msgid "Image"
+msgstr "Image"
+
+#: includes/function.yith-wccl.php:93
+msgid "Label"
+msgstr "Étiquette"
+
+#: init.php:55
+msgid ""
+"YITH WooCommerce Color and Label Variations Premium is enabled but not "
+"effective. It requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Color and Label Variations Premium est activé mais pas "
+"efficace. Il nécessite WooCommerce pour fonctionner."
+
+#: plugin-options/general-options.php:17
+msgid "General Options"
+msgstr "Options générales"
+
+#: plugin-options/general-options.php:24
+msgid "Attribute behavior"
+msgstr "Comportement des attributs"
+
+#: plugin-options/general-options.php:25
+msgid "Choose attribute style after selection."
+msgstr "Choisissez le style d'attribut après la sélection."
+
+#: plugin-options/general-options.php:31
+msgid "Hide attributes"
+msgstr "Masquer les attributs"
+
+#: plugin-options/general-options.php:32
+msgid "Blur attributes"
+msgstr "Attributs de flou"
+
+#: plugin-options/general-options.php:38
+msgid "Enable Tooltip"
+msgstr "Activer l'info-bulle"
+
+#: plugin-options/general-options.php:41
+msgid "Enable tooltip for attributes"
+msgstr "Activer l'info-bulle pour les attributs"
+
+#: plugin-options/general-options.php:47
+msgid "Tooltip position"
+msgstr "Position de l'info-bulle"
+
+#: plugin-options/general-options.php:48
+msgid "Select tooltip position"
+msgstr "Sélectionner la position de l'infobulle"
+
+#: plugin-options/general-options.php:52
+msgid "Top"
+msgstr "Haut"
+
+#: plugin-options/general-options.php:53
+msgid "Bottom"
+msgstr "Bas"
+
+#: plugin-options/general-options.php:60
+msgid "Tooltip animation"
+msgstr "Animation d'infobulle"
+
+#: plugin-options/general-options.php:61
+msgid "Select tooltip animation"
+msgstr "Sélectionner l'animation des info-bulles"
+
+#: plugin-options/general-options.php:65
+msgid "Fade in"
+msgstr "Fondu"
+
+#: plugin-options/general-options.php:66
+msgid "Slide in"
+msgstr "Faites glisser"
+
+#: plugin-options/general-options.php:73
+msgid "Tooltip background"
+msgstr "Fond d'infobulle"
+
+#: plugin-options/general-options.php:74
+msgid "Select tooltip background"
+msgstr "Sélectionner l'arrière-plan de l'infobulle"
+
+#: plugin-options/general-options.php:82
+msgid "Tooltip text color"
+msgstr "Couleur du texte de l'info-bulle"
+
+#: plugin-options/general-options.php:83
+msgid "Select tooltip text color"
+msgstr "Sélectionner la couleur du texte de l'info-bulle"
+
+#: plugin-options/general-options.php:91
+msgid "Show Attribute Description"
+msgstr "Afficher la description de l'attribut"
+
+#: plugin-options/general-options.php:94
+msgid "Choose to show description below each attribute in single product page"
+msgstr ""
+"Choisissez d'afficher la description sous chaque attribut sur une seule page "
+"de produit"
+
+#: plugin-options/general-options.php:100
+msgid "Enable plugin in archive pages"
+msgstr "Activer le plugin dans les pages d'archives"
+
+#: plugin-options/general-options.php:103
+msgid "Choose to show attribute selection in archive shop pages."
+msgstr ""
+"Choisissez d'afficher la sélection d'attributs dans les pages de la boutique "
+"d'archives."
+
+#: plugin-options/general-options.php:109
+msgid "Form Position"
+msgstr "Position du formulaire"
+
+#: plugin-options/general-options.php:110
+msgid "Choose the form position in archive shop page"
+msgstr ""
+"Choisissez la position du formulaire dans la page de la boutique d'archives"
+
+#: plugin-options/general-options.php:114
+msgid "Before add to cart button"
+msgstr "Bouton avant d'ajouter au panier"
+
+#: plugin-options/general-options.php:115
+msgid "After add to cart button"
+msgstr "Après le bouton Ajouter au panier"
+
+#: plugin-options/general-options.php:122
+msgid "Enable AJAX form in archive pages"
+msgstr "Activer le formulaire AJAX dans les pages d'archives"
+
+#: plugin-options/general-options.php:125
+msgid "Enable AJAX handle for variations form in archive shop pages."
+msgstr ""
+"Activez la poignée AJAX pour le formulaire de variantes dans les pages de la "
+"boutique d'archives."
+
+#: plugin-options/general-options.php:131
+msgid "Label for 'Add to cart' button"
+msgstr "Étiquette du bouton «Ajouter au panier»"
+
+#: plugin-options/general-options.php:134
+msgid ""
+"Label for 'Add to cart' button when a variation is selected from archive page"
+msgstr ""
+"Libellé du bouton «Ajouter au panier» lorsqu'une variante est sélectionnée "
+"dans la page d'archive"
+
+#: plugin-options/general-options.php:140
+msgid "Change product image on hover"
+msgstr "Modifier l'image du produit en survol"
+
+#: plugin-options/general-options.php:143
+msgid ""
+"Change the product image when the mouse hovers the concerned attribute. "
+"PLEASE, NOTE: It works only for products that have only one attribute per "
+"variation."
+msgstr ""
+"Modifiez l'image du produit lorsque la souris survole l'attribut concerné. "
+"VEUILLEZ NOTER: Cela ne fonctionne que pour les produits qui n'ont qu'un "
+"seul attribut par variation."
+
+#: plugin-options/general-options.php:149
+msgid "Show custom attributes on \"Additional Information\" Tab"
+msgstr ""
+"Afficher les attributs personnalisés dans l'onglet \"Informations "
+"supplémentaires\""
+
+#: plugin-options/general-options.php:152
+msgid ""
+"Show custom attributes style on \"Additional Information\" Tab instead of "
+"simple text."
+msgstr ""
+"Affichez le style d'attributs personnalisés dans l'onglet \"Informations "
+"supplémentaires\" au lieu d'un simple texte."
+
+#: plugin-options/single-variations-options.php:17
+msgid "Single Variations in loop"
+msgstr "Variations simples en boucle"
+
+#: plugin-options/single-variations-options.php:24
+msgid "Show single variations in loop"
+msgstr "Afficher des variations uniques en boucle"
+
+#: plugin-options/single-variations-options.php:25
+msgid ""
+"Choose whether to show single variations in archive pages of your store or "
+"not"
+msgstr ""
+"Choisissez d'afficher ou non des variations uniques dans les pages "
+"d'archives de votre boutique"
+
+#: plugin-options/single-variations-options.php:33
+msgid "Hide parent products"
+msgstr "Masquer les produits parents"
+
+#: plugin-options/single-variations-options.php:34
+msgid "Hide parent products in loop when single variations are showed"
+msgstr ""
+"Masquer les produits parents en boucle lorsque des variations uniques sont "
+"affichées"
+
+#: plugin-options/single-variations-options.php:42
+msgid "Order products by ID"
+msgstr "Commander des produits par ID"
+
+#: plugin-options/single-variations-options.php:43
+msgid ""
+"Order products by ID in all WooCommerce loop. This option alters the main "
+"WordPress query so you may notice changes in different sections of your "
+"site. We recommend enabling this option if you see your variations "
+"sequentially"
+msgstr ""
+"Commandez les produits par ID dans toutes les boucles WooCommerce. Cette "
+"option modifie la requête WordPress principale afin que vous puissiez "
+"remarquer des changements dans différentes sections de votre site. Nous vous "
+"recommandons d'activer cette option si vous voyez vos variations de manière "
+"séquentielle"
+
+#: templates/admin/description-field.php:20
+#: templates/admin/description-field.php:33
+msgid "Description"
+msgstr "Description"
+
+#: templates/admin/description-field.php:25
+#: templates/admin/description-field.php:36
+msgid "Description for product attributes."
+msgstr "Description des attributs du produit."
+
+#: templates/admin/variation-gallery.php:16
+msgid "Variation Image Gallery"
+msgstr "Galerie d'images de variation"
+
+#: templates/yith-wccl-variable-loop.php:37
+msgid "Choose an option"
+msgstr "Choisis une option"
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH WooCommerce Color and Label Variations</strong></"
+"code> allows you to customize the drop-down select of your variable products "
+"and buy product variations directly from shop pages. A must-have for every e-"
+"commerce. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more "
+"plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+"Le <code><strong>YITH WooCommerce Color and Label Variations</strong></code> "
+"vous permet de personnaliser la liste déroulante de vos produits variables "
+"et d'acheter des variantes de produits directement à partir des pages de la "
+"boutique. Un incontournable pour tout e-commerce. <a href=\"https://yithemes."
+"com/\" target=\"_blank\">Obtenez plus de plugins pour votre boutique de "
+"commerce électronique sur <strong>YITH</strong></a>."
+
+#: includes/class.yith-wccl-admin.php:926
+#: templates/admin/variation-gallery.php:22
+msgctxt "label for remove single image from variation gallery"
+msgid "Remove image"
+msgstr "Supprimer l'image"
